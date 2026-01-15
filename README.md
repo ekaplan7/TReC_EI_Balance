@@ -8,3 +8,6 @@ FOLDER CONTENTS:
   TReC_EI_Preproc_Final.m -> Current working preprocessing code. Takes in ONLY onset markers. Offset markers are estimated based on amplitude thresholding. 
         # File is similarly organized, you can search for 'UPDATE' to see blocks where subj-specific data is required 
 
+  ts-ei-analysis.ipynb -> SpecParam workflow. Takes in folder of preprocessed subjects PRE and POST, runs specparam and plots results: individual and grand average PSDs and fitted model, trajectories, etc 
+
+  
