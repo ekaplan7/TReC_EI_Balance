@@ -1,6 +1,4 @@
-# TReC_EI_Balance
-
-# Overview
+# Project Overview
 Comprehensive Behavioral Intervention for Tics (CBIT) is the gold standard treatment for Tourette Syndrome (TS), however roughly half of subjects don't show treatment response. Recent work suggests that the aperiodic exponent of the EEG power spectrum may serve as a non-invasive proxy for cortical excitation/inhibtion (E/I) balance.  Flatter slopes hae been associated with relatively greater excitation, whereas steeper slopes are thought to reflect relatively greater inhibition. Individuals with TS show heightened aperiodic activity during sensorimotor processing. This project investigates whether CBIT alters E/I balance in the brains of adolescents with TS. 
 
 # Conceptual Framework
